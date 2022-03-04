@@ -1,7 +1,14 @@
 div {
+<<<<<<< HEAD
   border: 2px solid black;
   background-color: aliceblue;
   text-align: center;
   margin: auto;
   width: 600px;
+=======
+  background-color: aliceblue;
+  width: 500px;
+  text-align: center;
+  margin: auto;
+>>>>>>> fix-problem
 }
